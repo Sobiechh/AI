@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\semestr IV\\SSI\\Lab1\\Lab1\\Lab1.csproj": {}
+    "D:\\Studia\\semestr IV\\AI\\Lab1\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\semestr IV\\SSI\\Lab1\\Lab1\\Lab1.csproj": {
+    "D:\\Studia\\semestr IV\\AI\\Lab1\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\semestr IV\\SSI\\Lab1\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "D:\\Studia\\semestr IV\\AI\\Lab1\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "D:\\Studia\\semestr IV\\SSI\\Lab1\\Lab1\\Lab1.csproj",
+        "projectPath": "D:\\Studia\\semestr IV\\AI\\Lab1\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Piotr\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\semestr IV\\SSI\\Lab1\\Lab1\\obj\\",
+        "outputPath": "D:\\Studia\\semestr IV\\AI\\Lab1\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
